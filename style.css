@@ -13,7 +13,6 @@ body {
     height: 100vh;
     overflow: hidden;
     margin: 0;
-    background-image: url('https://images.unsplash.com/photo-1542181961-9590d0c79dab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80');
     background-position: center center;
     background-size: cover;
     transition: 0.4s ease;
